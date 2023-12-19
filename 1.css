@@ -80,41 +80,4 @@ body{
     position: absolute;
     left: 11%;
     margin-top: 222px;
-    margin-bottom: 12px;
-}
-.header-suptitle{
-    color: #fff;
-    font-size: 18px ;
-}
-.header-suptitle:after{
-    position: absolute;
-    content: '';
-    height: 2px;
-    width: 61px;
-    background-color: #fff;
-    top: 126px;
-    left: 70px;
-}
-.header-suptitle:before{
-    position: absolute;
-    content: '';
-    height: 2px;
-    width: 61px;
-    background-color: #fff;
-    top: 126px;
-    left: 295px;
-}
-.header-button{
-    background-color: #FF7400;
-    padding: 14px 38px;
-    color: #fff;
-    font-size: 14px;
-    font-weight: 700;
-    text-decoration: none;
-
-    transition: background-color 0.3 linear;
-}
-.header-button:hover{
-    background-color: #904506;
-
 }
