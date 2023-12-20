@@ -80,6 +80,7 @@ body{
     position: absolute;
     left: 11%;
     margin-top: 222px;
+<<<<<<< HEAD
     margin-bottom: 12px;
 }
 .header-suptitle{
@@ -117,4 +118,6 @@ body{
 .header-button:hover{
     background-color: #904505;
 
+=======
+>>>>>>> 9215a87b1ddfc06abeb845d77d69debaac352a9d
 }
