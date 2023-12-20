@@ -165,3 +165,9 @@ body{
 .histoty-title span{
     color: #D67E35;
 }
+.histoty-desk{
+    color: #656363;
+    font-size: 16px;
+    width: 444px;
+    text-align: center;
+}
