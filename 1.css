@@ -155,3 +155,10 @@ body{
 .history{
         margin-top: 166px;
 }
+.histoty-title{
+    font-size: 54px;
+    font-weight: 400;
+    width: 444px;
+    text-align: center;
+    margin-top: 21px;
+}
