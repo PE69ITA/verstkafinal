@@ -1,6 +1,10 @@
 body{
     margin: 0;
+<<<<<<< HEAD
     padding: 0 0;
+=======
+    padding: 0;
+>>>>>>> css2
 }
 .conteiner {
     margin: 0px 166px;
@@ -80,6 +84,10 @@ body{
     position: absolute;
     left: 11%;
     margin-top: 222px;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> css2
     margin-bottom: 12px;
 }
 .header-suptitle{
@@ -117,6 +125,7 @@ body{
 .header-button:hover{
     background-color: #904505;
 
+<<<<<<< HEAD
 }
 .cards-holder{
     display: flex;
@@ -170,4 +179,8 @@ body{
     font-size: 16px;
     width: 444px;
     text-align: center;
+=======
+=======
+>>>>>>> 9215a87b1ddfc06abeb845d77d69debaac352a9d
+>>>>>>> css2
 }
