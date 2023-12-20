@@ -203,23 +203,22 @@ body{
 }
 .history-holder{
     display: flex;
-    justify-content: space-between;
-}   
-.images-1{
-    position: absolute;
-    z-index: 0;
-    top: 54;
-    left: 211px;
-}
-.images-2{
-    position: absolute;
-    z-index: 999;
-    top: -92px;
-    left: 383px;
 }
 .images-3{
     position: absolute;
-    z-index: 999px;
-    top: 246px;
-    left: 486px;
+    z-index: 0;
+    top: -154;
+    left: 152px;
+}
+.images-2{
+    position: absolute;
+    z-index: 2;
+    top: -87px;   
+    left: 328px;
+}
+.images-1{
+    position: absolute;
+    z-index: 1;
+    top: 80px;
+    left: 402px;
 }
