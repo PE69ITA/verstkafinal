@@ -198,3 +198,27 @@ body{
     display: block;
     color: #000;
 }
+.history-images{
+    position: relative;
+}
+.history-holder{
+    display: flex;
+}
+.images-3{
+    position: absolute;
+    z-index: 0;
+    top: -154;
+    left: 152px;
+}
+.images-2{
+    position: absolute;
+    z-index: 2;
+    top: -87px;   
+    left: 328px;
+}
+.images-1{
+    position: absolute;
+    z-index: 1;
+    top: 80px;
+    left: 402px;
+}
